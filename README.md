@@ -83,7 +83,7 @@ Scaffold Full includes everything in Lite plus:
 - **model-tiers.json + scaffold.config.json** — pre-configured, not DIY
 - Future updates included
 
-→ [Get Scaffold Full on Gumroad](https://gumroad.com/scaffoldworkspace)
+→ [Get Scaffold Full on Gumroad](https://getscaffold.gumroad.com/l/ixtnp)
 
 ---
 
